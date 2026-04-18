@@ -1,21 +1,10 @@
-# Data Dictionary Template
-
-Use this file to document every important field in your dataset. A strong data dictionary makes your cleaning decisions, KPI logic, and dashboard filters much easier to review.
-
-## How To Use This File
-
-1. Add one row for each column used in analysis or dashboarding.
-2. Explain what the field means in plain language.
-3. Mention any cleaning or standardization applied.
-4. Flag nullable columns, derived fields, and known quality issues.
-
 ## Dataset Summary
 
 | Item | Details |
 |---|---|
-| Dataset name | _Fill in_ |
-| Source | _Fill in_ |
-| Raw file name | _Fill in_ |
+| Dataset name | Road Traffic Accident Dataset |
+| Source | https://www.kaggle.com/datasets/saurabhshahane/road-traffic-accidents  |
+| Raw file name | RTA_Dataset.csv |
 | Last updated | _Fill in_ |
 | Granularity | _e.g. one row per order / customer / transaction / day_ |
 
