@@ -1,0 +1,23 @@
+
+DATA CLEANING SUMMARY
+================================================================================
+
+TRANSFORMATIONS APPLIED:
+1. Column names standardized.
+2. String data cleaned (whitespace stripped, empty values set to NaN).
+3. 'Time' converted safely, extracting 'Hour_of_day'.
+4. Irrelevant columns dropped to scope data for City Planning.
+5. Derived operational features: Patrol_Shift, Is_Adverse_Condition, Is_weekend, Severity_score.
+6. Categorical values explicitly standardized.
+7. Defensively imputed missing categoricals with 'Unknown'.
+8. Filled missing numeric data with medians.
+9. All categories cast correctly for optimized Tableau loading.
+10. Duplicate records logged and removed.
+
+DATA QUALITY METRICS:
+- Final records: 12,316
+- Final features: 32
+- Missing values remaining: 0
+- Duplicates remaining: 0
+
+READY FOR ANALYSIS: ✓
