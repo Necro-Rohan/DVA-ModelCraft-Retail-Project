@@ -39,7 +39,7 @@ Despite existing traffic regulations, road traffic accidents continue to cause s
 | Attribute | Details |
 |---|---|
 | **Source Name** | Road Traffic Accident (RTA) Dataset |
-| **Direct Access Link** | `[Paste the direct download or access URL]` |
+| **Direct Access Link** | `https://www.kaggle.com/datasets/saurabhshahane/road-traffic-accidents` |
 | **Row Count** | 12,316 |
 | **Column Count** | 32 |
 | **Format** | CSV |
@@ -205,9 +205,9 @@ This table must match evidence in GitHub Insights, PR history, and committed fil
 |---|---|---|---|---|---|---|---|
 | Rohan Kumar | Owner | Owner | Support | Support | Support | Support | Support |
 | Kundan Gupta | Support | Support | Owner | Owner | Support | Support | Support |
-| Krish Patil | Support | Support | Support | Support | Owner | Support | Support |
-| Yashraj Chouhan | Support | Support | Support | Support | Support | Owner | Support |
-| Rahul Gupta | Support | Support | Support | Support | Support | Support | Owner |
+| Krish Patil | Support | Support | Support | Support | Co-Owner | Owner | Co-Owner |
+| Yashraj Chouhan | Support | Support | Support | Support | Owner | Support | Co-Owner |
+| Rahul Gupta | Support | Support | Support | Support | Co-Owner | Support | Owner |
 
 _Declaration: We confirm that the above contribution details are accurate and verifiable through GitHub Insights, PR history, and submitted artifacts._
 
